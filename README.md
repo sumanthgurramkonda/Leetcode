@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
 ## Sorting
 |  |
