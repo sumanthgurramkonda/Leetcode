@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
