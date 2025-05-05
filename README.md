@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0062-unique-paths) |
 | [0223-rectangle-area](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0223-rectangle-area) |
+| [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 ## Geometry
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
