@@ -1,5 +1,5 @@
 class Solution {
-    int res=Integer.MAX_VALUE;
+    
     public int numSquares(int n) {
         if(isPerfectSquare(n))return 1;
         if(n<4)return n;
@@ -20,12 +20,10 @@ class Solution {
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
        return square(n,nums,0,dp)-1;
-    //    return res;
     }
 
     public int square(int n,int[] nums,int count,int[] dp){
         if(n==0){
-            res = Math.min(res,count);
             return 1;
         }
         if(n<0)return 0;
