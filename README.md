@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
