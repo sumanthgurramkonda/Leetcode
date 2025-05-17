@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0216-combination-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Backtracking
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Dynamic Programming
 |  |
@@ -86,8 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
