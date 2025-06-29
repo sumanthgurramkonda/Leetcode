@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Greedy
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
