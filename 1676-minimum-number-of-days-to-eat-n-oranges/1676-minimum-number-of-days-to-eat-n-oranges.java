@@ -2,7 +2,18 @@ class Solution {
     static Map<Integer,Integer> cache = new HashMap();
     public int minDays(int n) {
 
-        return minDays1(n);
+        return minDays2(n);
+    }
+
+    public int minDays2(int n){
+        if(n<=2)return n;
+        if(cache.containsKey(n))return cache.get(n);
+
+        int two = n%2+minDays2(n/2);
+        int three = n%3+minDays2(n/3);
+        int min = 1+Math.min(two,three);
+        cache.put(n,min);
+        return min;
     }
 
     public int minDays1(int n){
