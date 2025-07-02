@@ -20,7 +20,7 @@ class Solution {
         if(sum>n)return 0;
         if(dp[sum]!=0)return dp[sum];
         int product = 1;
-        for(int i=1;i<n;i++){
+        for(int i=2;i<n;i++){
             product = Math.max(product,integerBreak2(n,sum+i)*i);
         }
         return dp[sum]=product;
