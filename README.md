@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
