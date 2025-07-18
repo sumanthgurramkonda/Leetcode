@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
