@@ -19,7 +19,8 @@ class Solution {
         int minTime = 0;
         while(!rottenQueue.isEmpty()){
             int size = rottenQueue.size();
-            if(fresh!=0)minTime++;
+            if(fresh==0)return minTime;
+            minTime++;
             for(int k=0;k<size;k++){
                 int[] arr = rottenQueue.poll();
                 int i = arr[0], j = arr[1];
@@ -45,7 +46,7 @@ class Solution {
                 }
             }
         }
-        return fresh==0 ? minTime : -1;
+        return -1;
     }
 
 }
