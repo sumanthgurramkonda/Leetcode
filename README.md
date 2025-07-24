@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
+| [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Enumeration
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 ## Binary Search
 |  |
 | ------- |
