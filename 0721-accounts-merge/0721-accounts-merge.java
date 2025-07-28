@@ -1,6 +1,7 @@
 class Solution {
     Map<String,String> mailToName = new HashMap();
     Map<String,String> childToParent = new HashMap();
+    Map<String,Integer> ranks = new HashMap();
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
 
         for(List<String> mails : accounts){
@@ -8,12 +9,13 @@ class Solution {
             for(int i=1;i<mails.size();i++){
                 childToParent.put(mails.get(i),mails.get(i));
                 mailToName.put(mails.get(i),name);
+                ranks.put(mails.get(i),1);
             }
         }
         
         for(List<String> mails : accounts){
             String firstMail = mails.get(1);
-            for(int i=1;i<mails.size();i++){
+            for(int i=2;i<mails.size();i++){
                 union(firstMail,mails.get(i));
             }
         }
@@ -48,7 +50,13 @@ class Solution {
         String parent1 = find(firstMail);
         String parent2 = find(mail);
         if(!parent1.equals(parent2)){
-            childToParent.put(parent2, parent1);
+            if(ranks.get(parent1)>ranks.get(parent2)){
+                childToParent.put(parent1,parent2);
+            }else  if(ranks.get(parent2)>ranks.get(parent1)){
+                childToParent.put(parent2,parent1);
+            }else{
+                childToParent.put(parent2, parent1);
+            }
         }
     }
 }
