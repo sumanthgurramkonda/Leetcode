@@ -50,12 +50,16 @@ class Solution {
         String parent1 = find(firstMail);
         String parent2 = find(mail);
         if(!parent1.equals(parent2)){
-            if(ranks.get(parent1)>ranks.get(parent2)){
-                childToParent.put(parent1,parent2);
-            }else  if(ranks.get(parent2)>ranks.get(parent1)){
-                childToParent.put(parent2,parent1);
-            }else{
+            int rank1 = ranks.get(parent1);
+            int rank2 = ranks.get(parent2);
+
+            if (rank1 > rank2) {
                 childToParent.put(parent2, parent1);
+            } else if (rank2 > rank1) {
+                childToParent.put(parent1, parent2);
+            } else {
+                childToParent.put(parent2, parent1);
+                ranks.put(parent1, rank1 + 1); 
             }
         }
     }
