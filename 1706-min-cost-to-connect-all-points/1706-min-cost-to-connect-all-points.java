@@ -16,6 +16,7 @@ class Solution {
                 if(visited.contains(j))continue;
                 int cost = Math.abs(points[i][0]-points[j][0])+Math.abs(points[i][1]-points[j][1]);
                 queue.offer(new int[]{cost,j});
+                queue.offer(new int[]{cost,i});
             }
         }
         return minCost;
