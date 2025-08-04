@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## String
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
