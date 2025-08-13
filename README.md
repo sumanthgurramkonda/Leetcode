@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
+| [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Heap (Priority Queue)
