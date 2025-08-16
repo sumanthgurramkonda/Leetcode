@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Depth-First Search
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Quickselect
 |  |
@@ -348,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
