@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## String
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
