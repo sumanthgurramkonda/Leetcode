@@ -1,28 +1,20 @@
 class Solution {
-
     public int jump(int[] nums) {
-        int []dp = new int[nums.length];
+
+        int[] dp = new int[nums.length];
         Arrays.fill(dp,-1);
-        int minJump = minJumps(nums,0,dp);
-        return minJump;
+        return dfs(nums,dp,0);
     }
 
-    private int minJumps(int[] nums, int i, int[] dp) {
-        if (i >= nums.length - 1) return 0; // No more jumps needed
-        if (nums[i] == 0) return Integer.MAX_VALUE; // Can't jump from here
-        if (dp[i] != -1) return dp[i];
-
+    public int dfs(int[] nums, int[] dp, int index){
+        if(index>=nums.length-1)return 0;
+        if(nums[index]==0)return Integer.MAX_VALUE;
+        if(dp[index]!=-1)return dp[index];
         int min = Integer.MAX_VALUE;
-        for (int j = 1; j <= nums[i]; j++) {
-            int next = minJumps(nums, i + j, dp);
-            if (next != Integer.MAX_VALUE) {
-                min = Math.min(min, 1 + next);
-            }
+        for(int i=1;i<=nums[index];i++){
+            int jump = dfs(nums,dp,index+i);
+            if(jump!=Integer.MAX_VALUE)min = Integer.min(jump+1, min);
         }
-        dp[i] = min;
-        return dp[i];
+        return dp[index]=min;
     }
 }
-
-
-
