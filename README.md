@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Union Find
 |  |
