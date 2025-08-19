@@ -16,7 +16,6 @@ class Solution {
             }
         }
         nums[pos]=nums[n-1];
-        for(int num : nums) System.out.print(num+" ");
         return pos+1;
     }
 }
