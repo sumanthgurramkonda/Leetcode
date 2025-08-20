@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0312-burst-balloons) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
