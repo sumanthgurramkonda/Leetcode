@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -380,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -388,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
