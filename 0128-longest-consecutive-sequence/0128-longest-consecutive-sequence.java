@@ -8,7 +8,7 @@ class Solution {
 		Iterator iterator = set.iterator();	
 		
 		while(iterator.hasNext()) {
-			int val = (int) iterator.next();
+			int val = (int)iterator.next();
 			if(!set1.contains(val-1)) {
 				set1.add(val);
 				while(set.contains(++val)) {
