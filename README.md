@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
