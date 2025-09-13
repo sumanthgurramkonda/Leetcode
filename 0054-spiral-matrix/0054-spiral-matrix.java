@@ -6,7 +6,7 @@ class Solution {
         int left = 0, right=matrix[0].length-1;
         List<Integer> list = new ArrayList();
         int count=(down+1) * (right+1);
-        while(left<=right && top<=down){
+        while(list.size()<count){
             
             for(int i=left;i<=right && list.size()<count;i++){
                 list.add(matrix[top][i]);
