@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
