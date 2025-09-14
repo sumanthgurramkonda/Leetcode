@@ -18,49 +18,55 @@ class Solution {
         }
         if(size<2)return head;
 
-        ListNode[] nodeList = new ListNode[size];
-        for(int i=0;i<size;i++){
-            nodeList[i]=head;
-            head = head.next;
-        }
-        for(int i=0;i<size;i++){
-            nodeList[i].next = null;
-        }
-        for(int i=0;i<size-1;i+=2){
-            ListNode temp1 = nodeList[i];
-            nodeList[i] = nodeList[i+1];
-            nodeList[i+1]=temp1;
-        }
-        for(int i=0;i<size-1;i++){
-            nodeList[i].next = nodeList[i+1];
-        }
-        return nodeList[0];
-        // ListNode head1 = null;
-        // ListNode prevNode = null;
-        // while(size>1){
-        //     ListNode[] nodes = reversePair(head,prevNode);
-        //     if(head1==null){
-        //         head1=nodes[0];
-        //     }
-        //     nodes[1].next = nodes[2];
-        //     head = nodes[2];
-        //     prevNode = nodes[1];
-        //     size-=2;
+        // ListNode[] nodeList = new ListNode[size];
+        // for(int i=0;i<size;i++){
+        //     nodeList[i]=head;
+        //     head = head.next;
         // }
-        // return head1;
+        // for(int i=0;i<size;i++){
+        //     nodeList[i].next = null;
+        // }
+        // for(int i=0;i<size-1;i+=2){
+        //     ListNode temp1 = nodeList[i];
+        //     nodeList[i] = nodeList[i+1];
+        //     nodeList[i+1]=temp1;
+        // }
+        // for(int i=0;i<size-1;i++){
+        //     nodeList[i].next = nodeList[i+1];
+        // }
+        // return nodeList[0];
+
+        ListNode head1 = null;
+        ListNode prevNode = null;
+        while(size>1){
+            ListNode[] nodes = reversePair(head);
+            // for(int i=0;i<3;i++){
+            //     System.out.print(nodes[i]!=null ? nodes[i].val+" ": null);
+            // }
+            // System.out.println();
+            head = nodes[2];
+            if(prevNode!=null)prevNode.next = nodes[1];
+            prevNode = nodes[0];
+            nodes[0].next = head;
+            if(head1==null) head1=nodes[1];
+            
+            size-=2;
+        }
+        return head1;
     }
 
-    public ListNode[] reversePair(ListNode currentNode, ListNode prevNode){
+    public ListNode[] reversePair(ListNode head){
 
-        ListNode nextNode = null;
-        ListNode firstNode = currentNode;
+        ListNode curr = head;
+        ListNode prev = null;
         for(int i=0;i<2;i++){
-            nextNode = currentNode.next;
-            currentNode.next = prevNode;
-            prevNode = currentNode;
-            currentNode = nextNode;
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
         }
-        return new ListNode[]{prevNode,firstNode,currentNode};
+        return new ListNode[]{head,prev,curr};
     }
 
 }
+
