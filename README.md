@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0053-maximum-subarray) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
