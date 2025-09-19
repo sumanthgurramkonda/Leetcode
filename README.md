@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0567-permutation-in-string) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
