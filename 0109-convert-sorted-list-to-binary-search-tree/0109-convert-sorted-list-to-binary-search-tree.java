@@ -42,7 +42,7 @@ class Solution {
 
     public TreeNode bst(ListNode[] nodes, int start,int end){
         if(start>end)return null;
-        if(start==end)return new TreeNode(nodes[start].val);
+        // if(start==end)return new TreeNode(nodes[start].val);
         int mid = (start+end)/2;
         TreeNode node = new TreeNode(nodes[mid].val);
         node.left = bst(nodes,start,mid-1);
