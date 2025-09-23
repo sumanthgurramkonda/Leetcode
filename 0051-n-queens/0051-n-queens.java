@@ -20,13 +20,14 @@ class Solution {
     public void solveNQueens1(int n, int row){
         if(row>=n){
             List<String> list = new LinkedList();
+            StringBuilder str = new StringBuilder();
+            for(int col=0;col<n;col++){
+                str.append('.');
+            }
             for(Pair pair : pairs){
-                StringBuilder str = new StringBuilder();
-                for(int col=0;col<n;col++){
-                    if(pair.col==col)str.append('Q');
-                    else str.append('.');
-                }
+                str.setCharAt(pair.col, 'Q');
                 list.add(str.toString());
+                str.setCharAt(pair.col, '.');
             }
             res.add(list);
             return;
