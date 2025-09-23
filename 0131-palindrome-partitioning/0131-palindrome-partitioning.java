@@ -13,9 +13,9 @@ class Solution {
         for(int j=index;j<s.length();j++){
             if(isPalinDrome(s,index,j)){
                 list.add(s.substring(index,j+1));
-            }else continue;
-            partitions(s,j+1,list);
-            if(list.size()>0)list.remove(list.size()-1);
+                partitions(s,j+1,list);
+                list.remove(list.size()-1);
+            }
         }
         
     }
