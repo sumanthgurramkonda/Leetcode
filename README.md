@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
