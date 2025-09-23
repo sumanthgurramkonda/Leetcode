@@ -10,7 +10,7 @@ class Solution {
     }
 
     List<List<String>> res = new LinkedList();
-    List<Pair> pairs = new LinkedList<>();
+    List<Pair> pairs = new ArrayList<>();
     
     public List<List<String>> solveNQueens(int n) {
         solveNQueens1(n,0);
@@ -42,20 +42,11 @@ class Solution {
     }
 
     public boolean isValidPosition(int r, int c){
-        
         for(Pair pair : pairs){
             int row = pair.row;
             int col = pair.col;
             if(col==c || Math.abs(row-r)==Math.abs(col-c))return false;
         }
         return true;
-    }
-
-    public StringBuilder generateString(int n){
-        StringBuilder str = new StringBuilder();
-        for(int i=0;i<n;i++){
-            str.append('.');
-        }
-        return str;
     }
 }
