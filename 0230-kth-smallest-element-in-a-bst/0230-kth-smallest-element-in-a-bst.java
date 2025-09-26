@@ -14,30 +14,19 @@
  * }
  */
 class Solution {
-    int res;
-    int count = 0;
+    
     public int kthSmallest(TreeNode root, int k) {
-        // Queue<Integer> queue = new PriorityQueue(Collections.reverseOrder());
-        // kthSmallest(root,k,queue);
-        // return queue.poll();
-        kthSmallest1(root,k);
+        kthSmallestElement(root,k);
         return res;
     }
-
-    public void kthSmallest(TreeNode root, int k, Queue<Integer> queue){
-        if(queue.size()==k)return;
+    int count;
+    int res;
+    public void kthSmallestElement(TreeNode root,int k){
         if(root==null)return;
-        kthSmallest(root.left,k,queue);
-        if(queue.size()<k) queue.add(root.val);
-        kthSmallest(root.right,k,queue);
-    }
-
-    public void kthSmallest1(TreeNode root, int k){
-        if(root==null)return;
-        if(count==k)return;
-        kthSmallest1(root.left,k);
-        count++;
+        kthSmallestElement(root.left,k);
+        count += 1;
         if(count==k)res = root.val;
-        kthSmallest1(root.right,k);
+        kthSmallestElement(root.right,k);
+
     }
 }
