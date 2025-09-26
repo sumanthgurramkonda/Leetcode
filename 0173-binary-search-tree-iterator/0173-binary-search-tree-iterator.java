@@ -15,12 +15,13 @@
  */
 class BSTIterator {
 
-    TreeNode root;
     // Queue<Integer> queue = new LinkedList<>();
     Stack<TreeNode> stack = new Stack<>();
     public BSTIterator(TreeNode root) {
-        this.root = root;
-        if(root!=null)stack.push(root);
+        while(root!=null){
+            stack.push(root);
+            root = root.left;
+        }
         // dfs(root);
     }
     
@@ -34,17 +35,13 @@ class BSTIterator {
     }
 
     public int linearDFS(){
-        TreeNode node = stack.peek();
-        TreeNode prevNode = node;
-        while(node.left!=null){
-            stack.push(node.left);
-            prevNode = node;
+        TreeNode root = stack.pop();
+        TreeNode node = root.right;
+        while(node!=null){
+            stack.push(node);
             node = node.left;
-            prevNode.left=null;
         }
-        node = stack.pop();
-        if(node.right!=null)stack.push(node.right);
-        return node.val;
+        return root.val;
     }
 
     // public void dfs(TreeNode root){
