@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0279-perfect-squares) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
