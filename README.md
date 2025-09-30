@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Enumeration
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Counting
 |  |
 | ------- |
@@ -602,4 +605,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
