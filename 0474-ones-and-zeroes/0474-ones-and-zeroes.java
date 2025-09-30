@@ -28,12 +28,19 @@ class Solution {
 
     }
 
-    Map<Pair, Integer> countMemo = new HashMap();
+    // Map<Pair, Integer> countMemo = new HashMap();
+    int[][][] dp;
     public int findMaxForm(String[] strs, int m, int n) {
         int strsLen = strs.length;
         int[][] counts = new int[strsLen][2];
         for(int i = 0;i<strs.length;i++){
             counts[i] = countOnesAndZeros(strs[i]);
+        }
+        dp = new int[strsLen][m+1][n+1];
+        for(int[][] arr : dp){
+            for(int[] ar : arr){
+                Arrays.fill(ar,-1);
+            }
         }
         int res = dfs(counts,0,m,n);
         return res;
@@ -51,8 +58,9 @@ class Solution {
     public int dfs(int[][] counts,int index, int m, int n){
         // if(m==0 && n==0)return 1;
         if(index>=counts.length)return 0;
-        Pair pair = new Pair(index, m,n);
-        if(countMemo.containsKey(pair)) return countMemo.get(pair);
+        // Pair pair = new Pair(index, m,n);
+        // if(countMemo.containsKey(pair)) return countMemo.get(pair);
+        if(dp[index][m][n]!=-1)return dp[index][m][n];
         int m1 = m-counts[index][0];
         int n1 = n-counts[index][1];
         int count1 = 0, count2 = 0;
@@ -62,8 +70,10 @@ class Solution {
         if(m>=0 && n>=0){
             count2 = dfs(counts,index+1,m,n);
         }
-        countMemo.put(pair, Math.max(count1,count2));
-        return countMemo.getOrDefault(pair,0);
+        // countMemo.put(pair, Math.max(count1,count2));
+        dp[index][m][n] = Math.max(count1,count2);
+        return dp[index][m][n];
+        // return countMemo.getOrDefault(pair,0);
     }
 }
 
