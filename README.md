@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Dynamic Programming
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Matrix
 |  |
 | ------- |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
