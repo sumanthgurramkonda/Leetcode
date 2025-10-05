@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Backtracking
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
