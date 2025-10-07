@@ -1,12 +1,25 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int n = intervals.length;
+        if(n==0)return new int[][]{newInterval};
         int[][] newIntervals = new int[n+1][2];
-        for(int i=0;i<n;i++){
-            newIntervals[i] = intervals[i];
+        int j = 0;
+        boolean isAdded = false;
+        if(n==1){
+            newIntervals[0] = intervals[0];
+            newIntervals[n]=newInterval;
+        }
+        for(int i=0;i<=n && n>1;i++){
+            if(!isAdded && intervals[j][0]>newInterval[0]){
+                newIntervals[i] = newInterval;
+                isAdded = true;
+                continue;
+            }
+            newIntervals[i] = intervals[j];
+            j++;
         }   
-        newIntervals[n] = newInterval;
-        Arrays.sort(newIntervals,(a,b)->a[0]-b[0]);
+        // newIntervals[n] = newInterval;
+        // Arrays.sort(newIntervals,(a,b)->a[0]-b[0]);
 
         Stack<int[]> intervalStack = new Stack<>();
 
