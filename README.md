@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
+| [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Enumeration
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Counting
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
+| [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Data Stream
 |  |
