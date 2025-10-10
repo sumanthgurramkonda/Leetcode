@@ -2,10 +2,10 @@ class Solution {
     int[] dp;
     public int jump(int[] nums) {
 
-        dp = new int[nums.length];
-        Arrays.fill(dp,-1);
-        // return dfs(nums,dp,0);
-        int steps = dfs1(nums,0);
+        // dp = new int[nums.length];
+        // Arrays.fill(dp,-1);
+        // // return dfs(nums,dp,0);
+        // int steps = dfs1(nums,0);
         // return steps == Integer.MAX_VALUE ? -1 : steps;
         return minJump(nums);
     }
