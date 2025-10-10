@@ -6,7 +6,22 @@ class Solution {
         Arrays.fill(dp,-1);
         // return dfs(nums,dp,0);
         int steps = dfs1(nums,0);
-        return steps == Integer.MAX_VALUE ? -1 : steps;
+        // return steps == Integer.MAX_VALUE ? -1 : steps;
+        return minJump(nums);
+    }
+
+    public int minJump(int[] nums){
+        int steps = 0;
+        int farthestStep = 0;
+        int currentStep = 0;
+        for(int i=0;i<nums.length-1;i++){
+            farthestStep = Math.max(farthestStep, nums[i]+i);
+            if(i==currentStep){
+                currentStep = farthestStep;
+                steps++;
+            }
+        }
+        return steps;
     }
 
     public int dfs1(int[] nums, int index){
@@ -23,16 +38,6 @@ class Solution {
         }
         return dp[index]=minJumps;
     }
-
-
-
-  
-
-
-
-
-
-
 
 
     public int dfs(int[] nums, int[] dp, int index){
