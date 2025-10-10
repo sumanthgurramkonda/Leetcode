@@ -1,10 +1,39 @@
 class Solution {
+    int[] dp;
     public int jump(int[] nums) {
 
-        int[] dp = new int[nums.length];
+        dp = new int[nums.length];
         Arrays.fill(dp,-1);
-        return dfs(nums,dp,0);
+        // return dfs(nums,dp,0);
+        int steps = dfs1(nums,0);
+        return steps == Integer.MAX_VALUE ? -1 : steps;
     }
+
+    public int dfs1(int[] nums, int index){
+        if(index>=nums.length) return Integer.MAX_VALUE;
+        if(index==nums.length-1){
+            return 0;
+        }
+        if(dp[index]!=-1)return dp[index];
+        int minJumps = Integer.MAX_VALUE;
+        for(int i=1;i<=nums[index];i++){
+            int count = dfs1(nums,index+i);
+            if(count==Integer.MAX_VALUE)continue;
+            minJumps = Math.min(count+1,minJumps);
+        }
+        return dp[index]=minJumps;
+    }
+
+
+
+  
+
+
+
+
+
+
+
 
     public int dfs(int[] nums, int[] dp, int index){
         if(index>=nums.length-1)return 0;
