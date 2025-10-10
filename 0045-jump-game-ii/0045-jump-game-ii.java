@@ -20,6 +20,7 @@ class Solution {
                 currentStep = farthestStep;
                 steps++;
             }
+            if(currentStep>=nums.length-1)return steps;
         }
         return steps;
     }
