@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
 | ------- |
