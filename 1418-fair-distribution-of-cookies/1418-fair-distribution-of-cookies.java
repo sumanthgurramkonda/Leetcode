@@ -22,6 +22,7 @@ class Solution {
             cookiesSum[i]+=cookies[index];
             minSum= Math.min(minSum,dfs(cookies, index+1));
             cookiesSum[i]-=cookies[index];
+            if(cookiesSum[i]==0)break;
         }
         return minSum;
     }
