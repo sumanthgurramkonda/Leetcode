@@ -14,28 +14,15 @@
  * }
  */
 class Solution {
-   
     public boolean isValidBST(TreeNode root) {
-        if(root==null)return true;
-         int leftMin = getMin(root.left);
-         int rightMin = getMin(root.right);
-         if(leftMin>rightMin) return false;
-         return isValidBst(root);
+        if(root.left==null && root.right==null)return true;
+        return isValidBst(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    public boolean isValidBst(TreeNode root){
-        if(root==null)return true;
-        TreeNode left = root.left, right = root.right;
-        if(left!=null && root.val<=left.val)return false;
-        if(right!=null && root.val>=right.val)return false;
-        return isValidBST(left) && isValidBST(right);
-    }
-
-    public int getMin(TreeNode root){
-        if(root==null)return Integer.MAX_VALUE;
-        int left = getMin(root.left);
-        int right = getMin(root.right);
-        return Math.min(Math.min(root.val,left),right);
+    public boolean isValidBst(TreeNode root,long left, long right){
+       if(root==null)return true;
+       if(!(root.val<right && root.val>left))return false;
+       return isValidBst(root.left,left,root.val) && isValidBst(root.right,root.val,right);
     }
 }
 
