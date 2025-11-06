@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
