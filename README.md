@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
+| [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Quickselect
