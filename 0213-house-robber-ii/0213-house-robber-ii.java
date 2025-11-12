@@ -27,12 +27,10 @@ class Solution {
         int n = nums.length;
         dp = new int[n];
         Arrays.fill(dp,-1);
-        int first = dfs(nums,0,n-1);
+        if(n==1)return nums[0];
+        int max = dfs(nums,0,n-1);
         Arrays.fill(dp,-1);
-        int second = dfs(nums,1,n);
-        int max = Math.max(first,Math.max(nums[n-1],second));
-        Arrays.fill(dp,-1);
-        for(int i=2;i<n;i++){
+        for(int i=1;i<n;i++){
             max = Math.max(max,dfs(nums,i,n));
         }
         return max;
