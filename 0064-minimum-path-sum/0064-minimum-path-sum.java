@@ -1,20 +1,19 @@
 class Solution {
+    int[][] dp;
     public int minPathSum(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[][] memo = new int[n+1][m+1];
-        for(int i=0;i<m;i++){
-            memo[n][i]=Integer.MAX_VALUE;
-        }
-        for(int i=0;i<n;i++){
-            memo[i][m]=Integer.MAX_VALUE;
-        }
-        memo[n-1][m]=0;
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=0;j--){
-                memo[i][j] = Math.min(memo[i][j+1], memo[i+1][j])+grid[i][j];
-            }
-        }
-        return memo[0][0];
+        dp = new int[grid.length][grid[0].length];
+        for(int[] arr : dp)Arrays.fill(arr,-1);
+        return dfs(grid, 0,0);
+    }
+
+    public int dfs(int[][] grid, int r, int c){
+        if(r==grid.length-1 && c==grid[0].length-1)return grid[r][c];
+        if(r>=grid.length || c>=grid[0].length)return Integer.MAX_VALUE;
+        if(dp[r][c]!=-1)return dp[r][c];
+        int right = dfs(grid, r,c+1);
+        int down = dfs(grid, r+1, c);
+        int min = Math.min(right,down);
+        if(min==Integer.MAX_VALUE)return dp[r][c]=Integer.MAX_VALUE;
+        return dp[r][c] = grid[r][c]+min;
     }
 }
