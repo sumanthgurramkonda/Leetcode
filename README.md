@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0322-coin-change) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
@@ -774,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
