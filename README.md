@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0621-task-scheduler) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Linked List
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
