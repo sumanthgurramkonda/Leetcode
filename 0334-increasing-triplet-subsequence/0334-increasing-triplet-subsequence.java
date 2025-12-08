@@ -6,10 +6,9 @@ class Solution {
             if(nums[i]<=first){
                 first = nums[i];
             }
-            else if(nums[i]<second){
+            else if(nums[i]<=second){
                 second = nums[i];
-            }
-            if(nums[i]>second)return true;
+            }else return true;
         }
         return false;
     }
