@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0338-counting-bits) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Game Theory
