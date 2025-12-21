@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2161-stock-price-fluctuation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Binary Search
 |  |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
