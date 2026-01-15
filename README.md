@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3788-maximum-score-of-a-split](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Backtracking
 |  |
 | ------- |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3788-maximum-score-of-a-split](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Two Pointers
 |  |
 | ------- |
