@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0767-reorganize-string) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Binary Search
 |  |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
