@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -842,4 +846,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1115-print-foobar-alternately) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
