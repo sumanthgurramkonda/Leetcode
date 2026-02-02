@@ -3,10 +3,8 @@ class Solution {
         if(x<0)return false;
         int temp = x;
         int num=0;
-        int rem;
         while(x>0){
-            rem = x%10;
-            num = num*10+rem;
+            num = num*10+x%10;
             x /=10;
         }
         return temp==num;
