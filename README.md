@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0437-path-sum-iii) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0437-path-sum-iii) |
