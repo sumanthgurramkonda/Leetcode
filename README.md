@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
