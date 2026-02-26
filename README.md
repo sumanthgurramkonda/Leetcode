@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-score-of-a-split](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Backtracking
