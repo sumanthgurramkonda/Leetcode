@@ -14,15 +14,18 @@
  * }
  */
 class Solution {
+
     public TreeNode sortedArrayToBST(int[] nums) {
-        return sortedArrayToBst(nums,0,nums.length-1);
+        
+        return dfs(nums,0,nums.length-1);
     }
-    public TreeNode sortedArrayToBst(int nums[],int l,int r){
-        if(l>r) return null;
+
+    public TreeNode dfs(int[] nums, int l, int r){
+        if(l>r)return null;
+        // if(l==r) return new TreeNode(nums[l]);
         int mid = (l+r)/2;
-        TreeNode root = new TreeNode(nums[mid]);
-        root.left = sortedArrayToBst(nums,l,mid-1);
-        root.right = sortedArrayToBst(nums,mid+1,r);
-        return root;
+        TreeNode left = dfs(nums, l, mid-1);
+        TreeNode right = dfs(nums, mid+1, r);
+        return new TreeNode(nums[mid], left, right);
     }
 }
