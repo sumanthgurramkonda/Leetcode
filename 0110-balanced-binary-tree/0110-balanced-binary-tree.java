@@ -25,12 +25,12 @@ class Solution {
         if(!isHeightBalanced) return 0;
         int left = dfs(root.left)+1;
         int right = dfs(root.right)+1;
-        if(left > right){
-            if(left>right+1) isHeightBalanced = false;
+        if(Math.abs(right-left)>1){
+            isHeightBalanced = false;
         }
-        else if(right > left){
-            if(right>left+1) isHeightBalanced = false;
-        }
+        // else if(right > left){
+        //     if(right>left+1) isHeightBalanced = false;
+        // }
         return Math.max(left,right);
     }
 }
