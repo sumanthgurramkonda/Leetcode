@@ -9,17 +9,20 @@
  */
 
 class Solution {
+    TreeNode res = null;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        TreeNode curr = root;
-        while(curr!=null){
-            if((curr == p || curr == q) || (curr.val > p.val && curr.val < q.val) || (curr.val < p.val && curr.val > q.val)) return curr;
-            if(p.val>curr.val && q.val>curr.val){
-                curr=curr.right;
-            }
-            else if(p.val<curr.val && q.val<curr.val){
-                curr=curr.left;
-            }
+        if(root==null)return null;
+        int val = root.val;
+        if(root==p || root==q){
+            res = root;
+            return root;
         }
-        return null;
+        if(val>p.val && val<q.val || val>q.val && val<p.val){
+            res = root;
+            return root;
+        }
+        TreeNode left = lowestCommonAncestor(root.left, p, q);
+        TreeNode right = lowestCommonAncestor(root.right, p, q);
+        return res;
     }
 }
