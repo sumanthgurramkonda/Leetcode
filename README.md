@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
+| [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Hash Table
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Bit Manipulation
