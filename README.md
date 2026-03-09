@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
