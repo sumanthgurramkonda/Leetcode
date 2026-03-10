@@ -1,46 +1,38 @@
 class Solution {
-    int[] nodes;
-    int[] size;
+
+    int[] nums;
+    int[] rank;
     public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
-        nodes = new int[n+1];
-        size = new int[n+1];
-        for(int i=1;i<=n;i++){
-            nodes[i] = i;
-            size[i] = 1;
+        rank = new int[n];
+        nums = new int[n];
+        for(int i=0;i<n;i++) nums[i] = i;
+
+        for(int[] edge : edges){
+            if(!union(edge[0]-1, edge[1]-1)) return edge;
         }
-        for(int[] node : edges){
-            if(!union(node[0], node[1])){
-                return new int[]{node[0], node[1]};
-            }
-        }
-        return new int[]{-1,-1};
+        return null;
+    }
+
+    public int find(int x){
+        if(nums[x]==x)return x;
+        return nums[x] = find(nums[x]);
     }
 
 
-    public int find(int n){
-        if(nodes[n]!=n){
-            nodes[n]=find(nodes[n]);
-        }
-        return nodes[n];
-    }
+    public boolean union(int u, int v){
 
-    public boolean union(int x, int y){
-
-        int nodeX = find(x);
-        int nodeY = find(y);
-
-        if(nodeX==nodeY) return false;
-
-        if(size[nodeX]<=size[nodeY]){
-            nodes[nodeX] = nodeY;
-            size[nodeX]++;
+        int x = find(u);
+        int y = find(v);
+        if(x==y) return false;
+        if(rank[x]<rank[y]){
+            nums[x] = y;
+        }else if(rank[x]>rank[y]){
+            nums[x] = y;
         }else{
-            nodes[nodeY] = nodeX;
-            size[nodeY]++;
+            nums[y] = x;
+            rank[x]++;
         }
-
         return true;
     }
-
 }
