@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
 | [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-operations-on-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1993-operations-on-tree) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
 | [1993-operations-on-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1993-operations-on-tree) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 ## Heap (Priority Queue)
 |  |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
 | [1993-operations-on-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1993-operations-on-tree) |
 | [2035-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
+| [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |
