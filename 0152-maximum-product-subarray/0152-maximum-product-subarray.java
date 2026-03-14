@@ -1,17 +1,19 @@
 class Solution {
+
     public int maxProduct(int[] nums) {
-        if(nums.length<1)return nums[0];
-        // int res=nums[0];
+        
         int res = Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            int sum = 1;
-            for(int j=i;j<nums.length;j++){
-                sum*=nums[j];
-                res = Math.max(res,sum);
-            }
+
+        int maxProduct = 1, minProduct = 1;
+        for(int num : nums){
+            int temp1 = maxProduct*num;
+            int temp2 = minProduct*num;
+            maxProduct = Math.max(Math.max(temp1,temp2),num);
+            minProduct = Math.min(Math.min(temp1,temp2),num);
+            res = Math.max(res, maxProduct);
         }
+        
+        for(int num : nums) res = Math.max(res, num);
         return res;
     }
 }
-
-
