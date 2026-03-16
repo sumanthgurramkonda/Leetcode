@@ -1,22 +1,21 @@
 class Solution {
-    int maxJump=0;
+
+    Boolean[] visited;
     public boolean canJump(int[] nums) {
-        boolean[] dp = new boolean[nums.length];
-        // return jump(nums,0,dp);
-        for(int i=0;i<nums.length;i++){
-            if(maxJump>=nums.length-1)return true;
-            if(i==maxJump && nums[i]==0)return false;
-            maxJump = Math.max(maxJump,i+nums[i]);
-        }
-        return maxJump>=nums.length-1;
+        if(nums.length<=1)return true;
+        visited = new Boolean[nums.length];
+        return canJump(nums,0);
     }
 
-    public boolean jump(int[] nums, int i,boolean[] dp){
-        if(maxJump>=nums.length-1)return true;
-        else if(i>=nums.length)return false;
-        if(dp[i])return true;
-        maxJump = Math.max(maxJump,i+nums[i]);
-        dp[i] = jump(nums,i+1,dp);
-        return dp[i];
+    public boolean canJump(int[] nums, int index){
+        if(index==nums.length-1) return true;
+        if(index>=nums.length) return false;
+        if(visited[index]!=null)return visited[index];
+        boolean canReachEnd = false;
+        for(int i=index;i<index+nums[index];i++){
+            canReachEnd |= canJump(nums, i+1);
+            if(canReachEnd)return true;
+        }
+        return visited[index] = canReachEnd;
     }
 }
