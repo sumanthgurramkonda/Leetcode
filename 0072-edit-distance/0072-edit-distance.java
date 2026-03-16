@@ -1,32 +1,31 @@
 class Solution {
+    int[][] count;
     public int minDistance(String word1, String word2) {
-        int[][] dp =new int[word1.length()][word2.length()];
-        for(int i=0;i<dp.length;i++){
-            Arrays.fill(dp[i],-1);
-        }
-        return convertWord(word1,word2,0,0,dp);
+        if(word1.equals(word2))return 0;
+        count = new int[word1.length()][word2.length()];
+        for(int[] arr : count) Arrays.fill(arr,-1);
+        return minDistance(word1, word2,0,0);
     }
 
-    public int convertWord(String word1, String word2, int i, int j, int[][] dp){
-        if(i==word1.length())return word2.length()-j;
-        if(j==word2.length())return word1.length()-i;
+    public int minDistance(String word1, String word2, int w1, int w2){
+        int w1Len = word1.length(), w2Len = word2.length();
+        if(w1==w1Len) return word2.length()-w2;
+        if(w2==w2Len) return word1.length()-w1;
 
-        if(dp[i][j]!=-1)return dp[i][j];
-        if(word1.charAt(i)==word2.charAt(j)){
-            return dp[i][j] = convertWord(word1,word2,i+1,j+1,dp);
+        if(count[w1][w2]!=-1)return count[w1][w2];
+
+        char c1 = word1.charAt(w1), c2 = word2.charAt(w2);
+        int minDistance = Integer.MAX_VALUE;
+        if(c1==c2){
+            minDistance = minDistance(word1, word2,w1+1,w2+1); 
+        }else{
+            int replace = minDistance(word1,word2,w1+1, w2+1); 
+            int delete = minDistance(word1,word2,w1+1, w2);     
+            int insert = minDistance(word1,word2,w1, w2+1);
+            minDistance = Math.min(insert, Math.min(delete, replace))+1;
         }
-
-        int replace = convertWord(word1,word2,i,j+1,dp);
-        int delete = convertWord(word1,word2,i+1,j,dp);
-        int insert = convertWord(word1,word2,i+1,j+1,dp);
-
-        return dp[i][j] = 1+Math.min(replace,Math.min(delete,insert));
-
+        return count[w1][w2] = minDistance;
+            
     }
+
 }
-
-
-
-
-
-
