@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-operations-on-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1993-operations-on-tree) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Greedy
