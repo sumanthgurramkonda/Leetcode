@@ -1,28 +1,22 @@
 class Solution {
     int[] dp;
     public int integerBreak(int n) {
-       dp=new int[n+1];
-       return integerBreak2(n,0);
+        dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        return dfs(n,0);
     }
 
-    public int integerBreak1(int n){
-        if(n<=1)return 1;
-        if(dp[n]!=0)return dp[n];
-        int product = 1;
-        for(int i=1;i<n;i++){
-          product = Math.max(product,integerBreak1(n-i)*i);
-        }
-        return dp[n]=product;
-    }
-
-    public int integerBreak2(int n, int sum){
-        if(sum==n) return 1;
+    public int dfs(int n, int sum){
+        if(n==sum)return 1;
         if(sum>n)return 0;
-        if(dp[sum]!=0)return dp[sum];
-        int product = 1;
-        for(int i=2;i<n;i++){
-            product = Math.max(product,integerBreak2(n,sum+i)*i);
+        if(dp[sum]!=-1)return dp[sum];
+        int prod = 1;
+        int maxProd = 0;
+        for(int i=1;i<n;i++){
+            prod = i*dfs(n,sum+i);
+            maxProd = Math.max(maxProd, prod);
         }
-        return dp[sum]=product;
+        return dp[sum]=maxProd;
     }
+
 }
