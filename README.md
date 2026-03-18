@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Bit Manipulation
 |  |
