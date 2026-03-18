@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
+| [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0909-stone-game) |
 ## Graph
 |  |
