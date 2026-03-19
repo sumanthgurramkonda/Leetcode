@@ -1,12 +1,13 @@
 class Solution {
-    int dp[][];
+    int[][] dp;
     public int splitArray(int[] nums, int k) {
-        dp = new int[nums.length+1][k+1];
-        for(int[]num : dp)Arrays.fill(num,-1);
-        return splitArray(nums,0,k);
+        dp = new int[nums.length][k+1];
+        for(int[] arr : dp) Arrays.fill(arr,-1);
+        return dfs(nums,0,k);
     }
 
-    public int splitArray(int[] nums, int index, int k){
+
+    public int dfs(int[]nums, int index, int k){
         if(index>=nums.length)return 0;
         if(k==1){
             int sum = 0;
@@ -15,13 +16,15 @@ class Solution {
         }
         if(dp[index][k]!=-1)return dp[index][k];
         int maxSum = 0;
-        int currentSum=0;
+        int currentSum = 0;
         int res = Integer.MAX_VALUE;
         for(int i=index;i<nums.length;i++){
             currentSum += nums[i];
-            maxSum = Math.max(currentSum, splitArray(nums,i+1,k-1));
-            res = Math.min(res,maxSum);
+            maxSum = Math.max(currentSum, dfs(nums,i+1,k-1));
+            res = Math.min(res, maxSum);
         }
-        return dp[index][k]=res;
+        return dp[index][k] = res;
     }
+
 }
+
