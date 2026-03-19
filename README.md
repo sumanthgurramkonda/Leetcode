@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1220-count-vowels-permutation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1220-count-vowels-permutation) |
 | [1332-count-vowels-permutation](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
