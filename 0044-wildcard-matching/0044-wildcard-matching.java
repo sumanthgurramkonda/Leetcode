@@ -21,7 +21,7 @@ class Solution {
         if(c1==c2 || c2=='?'){
             isValid = dfs(s,p,i+1,j+1);
         }else if(c2=='*'){
-            isValid = dfs(s,p,i+1,j) ||  dfs(s,p,i,j+1) || dfs(s,p,i+1,j+1);
+            isValid = dfs(s,p,i+1,j) ||  dfs(s,p,i,j+1);
         }
         return memo[i][j]=isValid;
     }
