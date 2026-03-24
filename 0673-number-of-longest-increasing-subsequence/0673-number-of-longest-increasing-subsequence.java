@@ -19,8 +19,7 @@ class Solution {
     }
 
     public int[] dfs(int[] nums, int index){
-        if(index==nums.length)return new int[]{0,0};
-
+        // if(index==nums.length)return new int[]{0,0};
         int maxLen = 0;
         int count = 1;
         if(dp[index]!=null)return dp[index];
