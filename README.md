@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0695-max-area-of-island) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Concurrency
 |  |
 | ------- |
