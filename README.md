@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Matrix
 |  |
 | ------- |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 ## String Matching
 |  |
 | ------- |
