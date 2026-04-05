@@ -1,37 +1,54 @@
 class Solution {
-    List<List<int[]>> adjList = new ArrayList<>();
-    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
 
+    class Node{
+        int node;
+        int price;
+        int k;
+        public Node(int node, int price, int k){
+            this.node = node;
+            this.price = price; 
+            this.k=k;
+        }
+    }
+
+    Map<Integer, List<Node>> graph = new HashMap<>();
+
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         for(int i=0;i<n;i++){
-            adjList.add(new ArrayList<>());
+            graph.put(i, new ArrayList<>());
         }
         for(int[] flight : flights){
-            int p = flight[0];
-            int c = flight[1];
-            int cost = flight[2];
-            if(c!=src)
-                adjList.get(p).add(new int[]{c,cost});
+            int from = flight[0];
+            int to = flight[1];
+            int price = flight[2];
+            graph.get(from).add(new Node(to, price,0));
         }
-        int[] costs = new int[n];
-        Arrays.fill(costs,Integer.MAX_VALUE);
-        costs[src]=0;
 
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[]{src,0});
+        return findCheapestPrice(n,src, dst, k);
 
-        while(k>=0){
-            int size = queue.size();
-            for(int i=0;i<size;i++){
-                int[] parent = queue.poll();
-                for(int[] child: adjList.get(parent[0])){
-                    int childNode = child[0];
-                    if(costs[childNode]<=parent[1]+child[1])continue;
-                    costs[childNode] = parent[1]+child[1];
-                    queue.add(new int[]{childNode,costs[childNode]});
-                }
+    }
+
+    public int findCheapestPrice(int n, int src, int dst, int k){
+
+        PriorityQueue<Node> pq = new PriorityQueue<>((n1,n2)->Integer.compare(n1.price, n2.price));
+        pq.add(new Node(src,0,0));
+
+        int[] minStops = new int[n];
+        Arrays.fill(minStops, Integer.MAX_VALUE);
+
+        while(!pq.isEmpty()){
+            Node curr = pq.poll();
+            if(curr.node==dst){
+                return curr.price;
             }
-            k--;
+            if(curr.k==k+1 || curr.k>=minStops[curr.node])continue;
+            minStops[curr.node]=curr.k;
+            for(Node node : graph.get(curr.node)){
+                int nextNode = node.node;
+                int nextPrice = curr.price+node.price;
+                pq.add(new Node(nextNode, nextPrice, curr.k+1));
+            }
         }
-        return costs[dst]==Integer.MAX_VALUE ? -1 : costs[dst];
+        return -1;
     }
 }
