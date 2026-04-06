@@ -1,78 +1,52 @@
 class NumArray {
-
-    Node root;
-    int n = 0;
-    int[] nums;
+    private int[] tree;
+    private int n;
     public NumArray(int[] nums) {
-        this.nums = nums;
-        n = nums.length;
-        root = constructTree(0, n-1, nums);
+        this.n = nums.length;
+        this.tree = new int[4*n];
+        buildTree(nums,0,n-1,0);
+    }
+
+    public void buildTree(int[] nums, int l, int r, int node){
+        if(l==r){
+         tree[node]=nums[l];
+         return;
+        }
+        int mid = (l+r)/2;
+        buildTree(nums,l,mid, node*2+1);
+        buildTree(nums,mid+1,r, node*2+2);
+        tree[node] = tree[node*2+1]+tree[node*2+2];
     }
     
     public void update(int index, int val) {
-        update(index,val,root);
+        update(index,val,0,n-1,0);
     }
 
-    public void update(int index, int val, Node root){
-       if(root.start==root.end){
-        root.val = val;
-        this.nums[root.start]=val;
-        return;
-       }
-       int mid = (root.start + root.end)/2;
-       if(index<=mid){
-            update(index,val,root.left);
-       }else{
-            update(index,val,root.right);
-       }
-       root.val = root.left.val+root.right.val;
+    public void update(int index, int val, int l, int r,int node){
+        if(l==r){
+            tree[node]=val;
+            return;
+        }
+        int mid = (l+r)/2;
+        if(index<=mid){
+            update(index, val, l, mid, node*2+1);
+        }else{
+            update(index, val, mid+1, r, node*2+2);
+        }
+        tree[node] = tree[node*2+1] + tree[node*2+2];
+
     }
     
     public int sumRange(int left, int right) {
-       return sumRange(left,right,root);
+        return sumRange(left,right,0,n-1,0);
     }
 
-    public int sumRange(int left, int right, Node root){
-        if(root.start==left && root.end == right)
-            return root.val;
-        int mid = (root.start + root.end)/2;
-
-        if(right<=mid){
-            return sumRange(left,right,root.left);
-        }else if(left>mid){
-            return sumRange(left,right,root.right);
-        }else{
-            return sumRange(left,mid,root.left)+sumRange(mid+1,right,root.right);
-        }
-    }
-
-    public Node constructTree(int left, int right, int [] nums){
-        if(left>right) return null;
-        if(left==right){
-            return new Node(left,right,nums[left]);
-        }
-        int mid = left + (right-left)/2;
-        Node leftNode = constructTree(left, mid, nums);
-        Node rightNode = constructTree(mid+1,right,nums);
-        int sum = (leftNode != null ? leftNode.val : 0) + (rightNode != null ? rightNode.val : 0);
-        Node root = new Node(left, right, sum);
-        root.left = leftNode;
-        root.right = rightNode;
-        return root;
-    }
-
-
-    public class Node{
-        Node left;
-        Node right;
-        int start;
-        int end;
-        int val;
-        public Node(int start, int end, int val){
-            this.start = start;
-            this.end = end;
-            this.val = val;
-        }
+    public int sumRange(int left, int right, int l, int r, int node){
+        if(r<left || l>right)return 0;
+        if (left <= l && r <= right) return tree[node];
+        int mid = (l+r)/2;
+        return sumRange(left,right,l,mid,node*2+1)
+                + sumRange(left,right,mid+1,r,node*2+2);
     }
 }
 
