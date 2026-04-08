@@ -8,9 +8,11 @@ class Solution {
         int len = 0;
         boolean odd = false;
         for(int val : map.values()){
-            len+= (val/2)*2;
-            if(val%2==1){
-                odd = true;
+            if(val%2==0){
+                len+=val;
+            }else{
+                len+=val-1;
+                odd=true;
             }
         }
         return odd ? len+1 : len;
