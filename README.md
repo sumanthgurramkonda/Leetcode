@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0091-decode-ways) |
