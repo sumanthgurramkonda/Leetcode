@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1014-k-closest-points-to-origin](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0796-rotate-string) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -791,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Memoization
 |  |
