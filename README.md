@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0091-decode-ways) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0068-text-justification) |
 ## Queue
 |  |
 | ------- |
