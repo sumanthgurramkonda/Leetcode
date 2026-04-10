@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1383-maximum-performance-of-a-team](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1036-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1905-count-sub-islands) |
