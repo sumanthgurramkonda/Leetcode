@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -1108,4 +1109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0796-rotate-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
