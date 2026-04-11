@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1383-maximum-performance-of-a-team](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1962-single-threaded-cpu](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1762-furthest-building-you-can-reach](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Linked List
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1993-operations-on-tree](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1993-operations-on-tree) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
