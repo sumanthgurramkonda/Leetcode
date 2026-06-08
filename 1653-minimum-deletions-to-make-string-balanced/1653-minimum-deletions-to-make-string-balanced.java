@@ -8,12 +8,13 @@ class Solution {
             if(s.charAt(i)=='a')aCount++;
         }
         if(aCount==0 || aCount==n)return 0;
-        int minDel = aCount;
+        int minDel = n;
         for(char c : s.toCharArray()){
             if(c=='a'){
                 aCount--;
-            }else bCount++;
+            }
             minDel = Math.min(minDel, aCount+bCount);
+            if(c=='b') bCount++;
         }
         return minDel;
     }
