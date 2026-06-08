@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0971-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1029-two-city-scheduling) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
