@@ -1119,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
