@@ -1,50 +1,52 @@
 class Solution {
+
     public String minWindow(String s, String t) {
-        if(s.length()<t.length()) return "";
-        
+        int n = s.length(), m = t.length();
+        if(n<m) return "";
         int[] sFreq = new int[128];
         int[] tFreq = new int[128];
+        for(char c : t.toCharArray()) tFreq[c]++;
 
-        for(char c : t.toCharArray()){ 
-            tFreq[c]+=1;
+        int required = 0, formed = 0;
+        for(int i=0;i<126;i++){
+            if(tFreq[i]>0)required++;
         }
-        int required = 0, formed=0;
-        for(int count : tFreq){
-            if(count>0) required+=1;
-        }
-        int left = 0,right = 0;
-        int l=0,r=Integer.MAX_VALUE;
-        while(right<s.length()){
+        int left = 0;
+        int l = 0, r = Integer.MAX_VALUE;
+        for(int right=0; right<n; right++){
             char c = s.charAt(right);
             sFreq[c]++;
-            if (tFreq[c] > 0 && sFreq[c] == tFreq[c]) {
+            if(tFreq[c]>0 && sFreq[c]==tFreq[c]){
                 formed++;
-            }
+            } 
             while(left<=right && formed>=required){
-                if(right-left < r-l){
-                    r = right;
-                    l = left;
+                char ch = s.charAt(left);
+                if(tFreq[ch]>0){
+                    if(r-l >  right-left){
+                        l = left;
+                        r = right;
+                    }
                 }
-                if(tFreq[s.charAt(left)]<=0){
-                    left++;
-                    continue;
-                }
-                char leftChar = s.charAt(left);
-                sFreq[leftChar]--;
-                if (tFreq[leftChar] > 0 && sFreq[leftChar] < tFreq[leftChar]) {
+                sFreq[ch]--;
+                if(tFreq[ch]> 0 && sFreq[ch]<tFreq[ch]){
                     formed--;
                 }
                 left++;
             }
-            right+=1;
+            
         }
-        return r==Integer.MAX_VALUE ? "" : s.substring(l,r+1);
+        return r==Integer.MAX_VALUE ? "" : s.substring(l, r+1);
+
     }
 
-    public boolean isValidString(int[]sFreq,int[]tFreq,String t){
+
+
+    public boolean isValidString(int[] sFreq, int[] tFreq, String t){
+
         for(char c : t.toCharArray()){
-            if(sFreq[c]<tFreq[c]) return false;
+            if(tFreq[c]>0 && sFreq[c]<tFreq[c])return false;
         }
         return true;
     }
+
 }
