@@ -1,21 +1,38 @@
 class Solution {
+
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer,Integer> map = new HashMap();
-        int n = nums1.length;
-        int m = nums2.length;
-        for(int i=0;i<m;i++){
-           if(!map.containsKey(nums2[i])) map.put(nums2[i],i);
-        }
-        for(int i=0;i<n;i++){
-            int j = map.get(nums1[i])+1;
-            for(;j<m;j++){
-                if(nums2[j]>nums1[i]){
-                    nums1[i]=nums2[j];
-                    break;
+
+        int n = nums1.length, m = nums2.length;
+        int[] greaterElements = new int[m];
+        Arrays.fill(greaterElements,-1);
+
+        for(int i=m-2;i>=0;i--){
+            int index = i+1;
+            while(index<m && nums2[index] <= nums2[i]){
+                index = greaterElements[index];
+                if(index==-1){
+                    index = m;
                 }
             }
-            if(j==m)nums1[i]=-1;
+            if(index<m) greaterElements[i] = index;
         }
-        return nums1;
+        for(int num : greaterElements){
+            System.out.println(num+" ");
+        }
+        Map<Integer, Integer> charMap = new HashMap<>();
+        for(int i=0;i<m;i++){
+            charMap.put(nums2[i], i);
+        }
+        int[] res = new int[n];
+
+        for(int i=0;i<n;i++){
+            int index = charMap.getOrDefault(nums1[i], -1);
+            if(index!=-1 && greaterElements[index]!=-1){
+                res[i] = nums2[greaterElements[index]];
+            }else{
+                res[i] = -1;
+            }
+        }
+        return res;
     }
 }
