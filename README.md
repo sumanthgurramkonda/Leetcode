@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
