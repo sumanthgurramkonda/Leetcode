@@ -14,9 +14,11 @@ class Solution {
         if(dp[amount]!=-1) return dp[amount];
 
         for(int i=0;i<coins.length;i++){
-            // int count = Math.min(count, dfs(coins, amount-coins[i]));
-            minCount = Math.min(minCount, dfs(coins, amount-coins[i]));
+            int res = dfs(coins, amount - coins[i]);
+            if(res != Integer.MAX_VALUE){
+                minCount = Math.min(minCount, res+1);
+            }
         }
-        return dp[amount] = minCount==Integer.MAX_VALUE ? Integer.MAX_VALUE : minCount+1;
+        return dp[amount] = minCount;
     }
 }
