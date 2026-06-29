@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1470-shuffle-the-array](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1582-design-browser-history](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1582-design-browser-history) |
 | [1656-count-good-triplets](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1656-count-good-triplets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
 | [1383-maximum-performance-of-a-team](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1752-arithmetic-subarrays](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sumanthgurramkonda/Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 ## Matrix
 |  |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sumanthgurramkonda/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1129-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sumanthgurramkonda/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumanthgurramkonda/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union Find
 |  |
